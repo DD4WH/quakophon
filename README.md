@@ -10,6 +10,7 @@ Design goals:
 * real time clock RTC
 * time stamp on WAV files
 * make directories for each day of recording and store files accordingly
+* simultaneous logging of temperature with one or two waterproof temperature loggers (air temperature / water temperature)
 * "waterproof" construction enabling recording under tropical field conditions
 * low cost
 
