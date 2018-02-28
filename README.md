@@ -12,6 +12,8 @@ Design goals:
 * make directories for each day of recording and store files accordingly
 * simultaneous logging of temperature with one or two waterproof temperature loggers (air temperature / water temperature)
 * "waterproof" construction enabling recording under tropical field conditions
+* scheduled audio logging
+* hibernating during non-logging time frames --> BUT: in order to keep USB power bank happy and alive, wake-up every five minutes and draw current for one second or so
 * low cost
 
 
